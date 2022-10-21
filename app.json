@@ -43,11 +43,7 @@
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
             "value": ""
-        },
-        "DURATION_LIMIT": {
-            "description": "filled, don't change this !",
-            "required": true,
-            "value": "540000"
+   
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
